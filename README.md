@@ -1,10 +1,19 @@
 # [Ultimate-NodeJs-Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
 
 <div align="center">
-  
-[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
-[![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
-[![Subscribe to Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge)](https://dhanushn.substack.com/)
+
+<a href="https://discord.com/invite/Yn9g6KuWyA">
+<img src="https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge" alt="Join Our Discord" />
+</a>
+<a href="https://www.youtube.com/@dhanushnehru?sub_confirmation=1">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube" />
+</a>
+<a href="https://dhanushn.substack.com/">
+<img src="https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge" alt="Subscribe to Newsletter" />
+</a>
+<a href="https://github.com/DhanushNehru/Ultimate-NodeJs-Resources">
+<img src="https://img.shields.io/badge/GitHub-Star%20Repository-black?logo=github&style=for-the-badge" alt="GitHub Repository" />
+</a>
 
 </div>
 
@@ -66,21 +75,21 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [NodeJs Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
 ## NodeJs IDEs
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [Cloud 9](https://aws.amazon.com/cloud9/)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- [WebStorm](https://www.jetbrains.com/webstorm/)
-- [Komodo IDE](https://www.activestate.com/products/komodo-ide/)
-- [Koding](https://www.koding.com/)
-- [Webmatrix](https://www.microsoft.com/Web/webmatrix/node.aspx)
-- [Sublime Text](http://www.sublimetext.com/)
+- [Aptana](http://www.aptana.com/)
 - [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/index.html)
-- [Aptana](http://www.aptana.com/)
-- [Gitpod](https://www.gitpod.io/)
-- [Eclipse](https://eclipseide.org/)
+- [Cloud 9](https://aws.amazon.com/cloud9/)
 - [codelobster](https://www.codelobster.com/)
+- [Eclipse](https://eclipseide.org/)
+- [Gitpod](https://www.gitpod.io/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Koding](https://www.koding.com/)
+- [Komodo IDE](https://www.activestate.com/products/komodo-ide/)
 - [NetBeans](https://netbeans.apache.org/)
+- [Sublime Text](http://www.sublimetext.com/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Webmatrix](https://www.microsoft.com/Web/webmatrix/node.aspx)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
 
 ## NodeJs Security
 - [Owasp](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
@@ -89,15 +98,15 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Node.js Security](https://www.nodejs-security.com/) - Node.js Secure Coding books
 
 ## NodeJs Testing Frameworks
+- [Ava](https://github.com/avajs/ava)
+- [Chai](https://www.chaijs.com/)
+- [Cypress](https://www.cypress.io/)
+- [Istanbul](https://istanbul.js.org)
+- [Jasmine](https://jasmine.github.io/setup/nodejs.html)
 - [Jest](https://jestjs.io)
 - [Mocha](https://mochajs.org)
-- [Jasmine](https://jasmine.github.io/setup/nodejs.html)
-- [Ava](https://github.com/avajs/ava)
-- [Istanbul](https://istanbul.js.org)
 - [Node Tap](https://node-tap.org)
-- [Chai](https://www.chaijs.com/)
 - [Sinon](https://sinonjs.org/)
-- [Cypress](https://www.cypress.io/)
 
 ## NodeJs YouTube channels
 - [Programming with Mosh](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
@@ -105,85 +114,58 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Programming Knowledge](https://www.youtube.com/watch?v=spPtAEmwys4)
 - [Coding Train](https://www.youtube.com/watch?v=RF5_MPSNAtU)
 - [Edureka](https://www.youtube.com/watch?v=uk2gSHbnhAI)
+- **Sangam Mukherjee - Part 1** - [Node.js Tutorial](https://youtu.be/_f7h6xQXiLA?si=UkOdJ456R6MPkibU)
+- **Sangam Mukherjee - Part 2** - [Node.js Tutorial](https://youtu.be/pa9xqOnorx0?si=PRQSqlttQPvtPAB2)
 - [LearnCode.academy](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 - [Traversy Media](https://www.youtube.com/watch?v=U8XF6AFGqlc)
 - [Code School](https://www.youtube.com/watch?v=GJmFG4ffJZU)
 - [The Net Ninja](https://www.youtube.com/watch?v=1US-P13yKVs)
 - [JavaScript Mastery](https://www.youtube.com/watch?v=l8WPWK9mS5M)
 - [Coder Dost](https://www.youtube.com/watch?v=ChVE-JbtYbM)
+- [Code with Harry](https://www.youtube.com/watch?v=BLl32FvcdVM)
 
 ## NodeJs Famous Blogs
 - [Dev.to](http://dev.to/t/node)
-- [Quick Code](https://medium.com/quick-code)
-- [Node Weekly](http://nodeweekly.com/issues)
-- [How to node](http://howtonode.org)
-- [Reddit](https://www.reddit.com/r/node/)
-- [To the new](https://www.tothenew.com/blog/)
 - [Free Code Camp](http://medium.freecodecamp.org)
 - [Hackernoon](http://hackernoon.com)
-- [Stackify](https://stackify.com/blog/)
 - [HashNode](https://hashnode.com/n/javascript)
+- [Advanced Node JS Concepts](https://medium.com/@khaledq_43881/advanced-node-js-concepts-a-comprehensive-guide-for-senior-engineers-8e49a5456b60)
+- [How to node](http://howtonode.org)
+- [Node JS Best practices to Follow](https://www.bacancytechnology.com/blog/node-js-best-practices)
+- [Node Weekly](http://nodeweekly.com/issues)
+- [Quick Code](https://medium.com/quick-code)
+- [Reddit](https://www.reddit.com/r/node/)
+- [Stackify](https://stackify.com/blog/)
+- [To the new](https://www.tothenew.com/blog/)
   
-## NodeJs Famous Frameworks
-- [Hapi.js](https://hapi.dev)
-- [Express.js](https://expressjs.com)
-- [Koa.js](https://koajs.com)
-- [Meteor.js](https://guide.meteor.com)
-- [Socket.io](https://socket.io/get-started/chat)
-- [Nest.js](https://nestjs.com)
-- [Sail.js](https://sailsjs.com/get-started)
-- [Total.js](https://www.totaljs.com)
-- [Feather.js](https://feathersjs.com)
-- [Loopback.io](https://loopback.io)
-- [Derby.js](https://www.derbyjs.com)
-- [Salis.js](https://sailsjs.com)
-- [Loopback](https://loopback.io)
+## Node.js Famous Frameworks
 - [Adonis.js](https://adonisjs.com)
-- [Keystone.js](https://www.keystonejs.com)
-- [Restify.js](http://restify.com)
+- [Derby.js](https://www.derbyjs.com)
 - [Diet.js](http://dietjs.com)
+- [Express.js](https://expressjs.com)
+- [Feathers.js](https://feathersjs.com)
+- [Hapi.js](https://hapi.dev)
+- [Keystone.js](https://www.keystonejs.com)
+- [Koa.js](https://koajs.com)
+- [LoopBack](https://loopback.io)
 - [Mean.js](http://meanjs.org)
+- [Meteor.js](https://guide.meteor.com)
+- [Nest.js](https://nestjs.com)
 - [Next.js](https://nextjs.org/docs)
+- [Restify.js](https://restify.com)
+- [Sails.js](https://sailsjs.com/get-started)
+- [Socket.IO](https://socket.io/get-started/chat)
+- [Total.js](https://www.totaljs.com)
 
 ## Top NodeJs Website Tutorials
-- [W3schools](https://www.w3schools.com/nodejs/)
 - [Codeacademy](https://www.codecademy.com/learn/learn-node-js)
-- [TutorialsPoint](https://www.tutorialspoint.com/nodejs/index.htm)
 - [JavaTpoint](https://www.javatpoint.com/nodejs-tutorial)
-- [TutorialsTeacher](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
-- [Nodeschool](https://nodeschool.io)
-- [NodeJs.Dev](https://nodejs.dev/learn)
 - [Kinsta Academy](https://kinsta.com/academy/course/node-js-full-stack-developer/)
-- [JavaTPoint](https://www.javatpoint.com/nodejs-tutorial)
-
-## Communities to join
-  
-Looking to learn, share, or get help with Node.js? Here are some awesome communities you can join:
-  
-- [Node.js Discord](https://discord.gg/nodejs)  
-  The official Discord server for Node.js with channels for help, projects, events, and networking.
-  
-- [Node Slackers](https://www.nodeslackers.com/)  
-  A large, active Slack community for Node.js developers. Great for Q&A and announcements.
-  
-- [Reddit Node.js](https://www.reddit.com/r/node/)  
-  A community of Node.js developers discussing news, tutorials, and ecosystem updates.
-  
-- [Stack Overflow - Node.js](https://stackoverflow.com/questions/tagged/node.js)  
-  Find answers to specific Node.js questions or contribute by helping others.
-  
-- [NodeSchool](https://nodeschool.io/)  
-  Open-source workshops and local events to learn Node.js through hands-on exercises.
-  
-- [Node.js Discussions](https://github.com/nodejs/node/discussions)  
-  Join long-form discussions, propose ideas, or ask questions directly in the Node.js org.
-  
-- [Node.js Meetups](https://www.meetup.com/topics/nodejs/)  
-  Find local and virtual Node.js meetups around the world to learn and network.
-  
-- **[`#node.js` on Libera.Chat](https://web.libera.chat/#node.js)** – Official IRC chat for Node.js developers.
-
-</br>
+- [NodeJs.Dev](https://nodejs.dev/learn)
+- [Nodeschool](https://nodeschool.io)
+- [TutorialsPoint](https://www.tutorialspoint.com/nodejs/index.htm)
+- [TutorialsTeacher](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
+- [W3schools](https://www.w3schools.com/nodejs/)
 
 ---
 🧩 Searching for a job ? This may help you 👉 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
